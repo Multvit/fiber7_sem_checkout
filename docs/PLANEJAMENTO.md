@@ -1,7 +1,7 @@
 # Landing Page Fiber SE7E — Análise e Planejamento (Fases 1 a 5)
 
 > Status: **aprovado e implementado** (Fases 6 e 7 concluídas). Decisões do cliente: preços do S1 mantidos; sem versão 200 g; depoimentos e prova social do S1 liberados; garantia 7 dias e frete grátis SP/PR/SC/RS válidos; sem bloco para lojistas; Pixel + Clarity mantidos; logo recolorido.
-> Revisão 3 (cliente): ingredientes atualizados (fibra de batata-doce no lugar da fécula; amido resistente incluído); "+46.000 clientes"; garantia de 7 dias só no bloco próprio (removida dos kits e do FAQ); hero sem nomes de ingredientes.
+> Revisão 3 (cliente): ingredientes atualizados (fibra de batata-doce no lugar da fécula; amido resistente incluído); "+140.000 clientes"; garantia de 7 dias só no bloco próprio (removida dos kits e do FAQ); hero sem nomes de ingredientes.
 > Data: 05/11/2026 · Revisão 2: nova tipografia, paleta Esmeralda, primeira dobra sem "8 g por porção".
 
 ---
