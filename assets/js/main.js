@@ -77,7 +77,7 @@ const CONFIG = {
   $$("a", menu).forEach(a => a.addEventListener("click", () => { menu.hidden = true; burger.setAttribute("aria-expanded", "false"); onScrollNav(); }));
 
   /* ---------- Flutuantes (WhatsApp + barra de compra) ---------- */
-  const waFloat = $(".wa-float"), buybar = $("#buybar"), kits = $("#kits"), footer = $(".footer");
+  const waFloat = $(".wa-float"), buybar = $("#buybar"), kits = $(".final"), footer = $(".footer");
   function onScrollFloat() {
     const past = scrollY > (hero ? hero.offsetHeight * 0.7 : 400);
     const kr = kits.getBoundingClientRect(), fr = footer.getBoundingClientRect();

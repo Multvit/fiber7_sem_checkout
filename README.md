@@ -1,6 +1,6 @@
 # Fiber SE7E · Landing page
 
-Landing page de produto do **Fiber SE7E (Multvit)**. Site estático (HTML + CSS + JS, sem build), pronto para a Vercel.
+Landing page **institucional** do **Fiber SE7E (Multvit)**, sem checkout: todos os botões de contato levam ao WhatsApp. Site estático (HTML + CSS + JS, sem build), pronto para a Vercel.
 O planejamento e as fontes de cada informação estão em [`docs/PLANEJAMENTO.md`](docs/PLANEJAMENTO.md).
 
 ## Estrutura
